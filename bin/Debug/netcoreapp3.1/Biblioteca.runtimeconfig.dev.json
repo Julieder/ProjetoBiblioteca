@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\cidas\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\cidas\\.nuget\\packages"
+    ]
+  }
+}
